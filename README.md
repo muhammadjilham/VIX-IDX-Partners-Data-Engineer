@@ -2,9 +2,9 @@
 
 Objektif dari project yang diberikan oleh ID/X Partners adalah:
 1. Melakukan restore database
-2. Membuat database warehouse yang berisi tabel Dimensional dan Fact
+2. Membuat database warehouse yang berisi tabel Dimension dan Fact
 3. Melakukan proses ETL menggunakan talend
-4. Membuat Stored Procedure dengan melakukan inner join tabel Dimensional dan Fact
+4. Membuat Stored Procedure dengan melakukan inner join tabel Dimension dan Fact
 
 File yang digunakan dan dihasilkan pada pengerjaan project ini:
 1. Staging.bak: File ini digunakan untuk dilakukan proses restore dan sumber data ETL
